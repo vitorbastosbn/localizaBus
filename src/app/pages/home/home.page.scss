@@ -1,0 +1,15 @@
+.fundo-triangulo {
+    border-right: 450px solid transparent;
+    border-top: 700px solid purple;
+    position: relative;
+}
+
+.componente-layout-padrao {
+    position: absolute;
+    left: 8px;
+}
+
+ion-content {
+    --background: transparent;
+    --ion-color-base: transparent !important;
+}
